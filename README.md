@@ -12,6 +12,7 @@ Student dropout rates present a significant challenge in educational institution
 Table 1: Retention and Dropout Prediction Using Key Metrics
 
 System Design :
+
 ![image](https://github.com/user-attachments/assets/dfe07cdb-b1e5-4e70-9074-626f5e52d993)
 
 Conclusion :
