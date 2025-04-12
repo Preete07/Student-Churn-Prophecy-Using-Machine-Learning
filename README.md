@@ -6,6 +6,7 @@ Problem statement:
 Student dropout rates present a significant challenge in educational institutions, hindering both academic success and institutional stability. Identifying students at risk of dropping out and understanding the underlying factors contributing to this attrition is critical for enabling timely interventions. However, the complexity of analyzing large datasets, including academic performance, attendance records, and demographic information, makes it difficult to predict which students are at risk.
 
 ![image](https://github.com/user-attachments/assets/39cd5000-20cc-404c-b083-d637737e2f5a)
+
 Table 1: Retention and Dropout Prediction Using Key Metrics
 
 System Design :
